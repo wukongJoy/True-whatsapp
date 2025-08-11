@@ -1,0 +1,6 @@
+// Settings file for the WhatsApp Scheduler project. This file
+// declares the modules included in the build. When opening
+// this project in Android Studio, the IDE will detect this file
+// and configure the project accordingly.
+
+include ':app'

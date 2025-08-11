@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Scheduler</string>
+    <string name="add_contact_schedule">Add Contact Schedule</string>
+    <string name="contact_hint">Enter or select contact</string>
+    <string name="language">Language</string>
+    <string name="frequency">Frequency</string>
+    <string name="time_range">Time Range</string>
+    <string name="message_type">Message Type</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="daily">Every day</string>
+    <string name="every_two_days">Every 2 days</string>
+    <string name="every_three_days">Every 3 days</string>
+    <string name="weekly">Every week</string>
+    <string name="morning">Morning greeting</string>
+    <string name="night">Good night</string>
+    <string name="miss_you">Miss you</string>
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>French</item>
+    </string-array>
+    <string-array name="frequency_options">
+        <item>@string/daily</item>
+        <item>@string/every_two_days</item>
+        <item>@string/every_three_days</item>
+        <item>@string/weekly</item>
+    </string-array>
+    <string-array name="time_range_options">
+        <item>07:00 - 08:00</item>
+        <item>08:00 - 09:00</item>
+        <item>09:00 - 10:00</item>
+        <item>10:00 - 11:00</item>
+    </string-array>
+    <string-array name="message_type_options">
+        <item>@string/morning</item>
+        <item>@string/night</item>
+        <item>@string/miss_you</item>
+    </string-array>
+</resources>
